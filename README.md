@@ -52,7 +52,7 @@ It is important to focus on *content* and overall site structure *before* you wo
 |---|---|---|
 ||Historical content is clear, accurate, and concise.||
 | | Your site has *at least* the four pages required (see above) with the requested information / media.  | |
-||Your site utilizes images and media in an engaging and meanginful way (not just randomly placed throughout).||
+||Your site utilizes images and media in an engaging and meaningful way (not just randomly placed throughout).||
 ||All images are stored locally within your repo.||
 ||Files and folders are named according to the classroom standards (all lowercase, no spaces, etc)||
 ||File and folder *structure* follows the organization standards demonstrated in class.||
